@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gergana Ivanova
-- 👀 I’m interested in coding an learning new things about it
+- 👀 I’m interested in coding and learning new things about it
 - 💻 I’m currently learning Software Engineering with C# at SoftUni and also studying Informatics and computer science at University
 - 👩‍💻 Future web developer 
 - ⚡ Fun fact: I have been a competitive C++ programmer for 4 years
